@@ -15,7 +15,7 @@ def countdown(seconds):
 
 
 def open_whatsapp_exe():
-    os.system('start whatsapp://send?phone=XXXXXXXXXXX')
+    os.system('start whatsapp://send?phone=XXXXXXXXX')
 
     count = 0
 
